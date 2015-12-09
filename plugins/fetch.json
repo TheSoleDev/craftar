@@ -6,5 +6,13 @@
         },
         "is_top_level": true,
         "variables": {}
+    },
+    "com.catchoom.craftar": {
+        "source": {
+            "type": "registry",
+            "id": "com.catchoom.craftar@0.5.2"
+        },
+        "is_top_level": true,
+        "variables": {}
     }
 }

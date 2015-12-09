@@ -5,8 +5,11 @@
         <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="CraftAR">
+        <param name="android-package" value="com.catchoom.craftar.CraftARPlugin" />
+    </feature>
     <allow-intent href="market:*" />
-    <name>HelloCordova</name>
+    <name>CraftAr</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
